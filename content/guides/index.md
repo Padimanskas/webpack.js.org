@@ -1,7 +1,7 @@
 ---
-title: Guides
+title: Руководства
 ---
 
-This section contains guides for understanding and mastering the wide variety of tools and features that webpack offers. The first is a simple guide that takes you through [installation](/guides/installation).
+Этот разел содержит руководства для понимания и освоения широкиого спектра инструментов и функционала, которые предлагает webpack. Вначале  это будут простые инструкции по установке [Установка] (/guide/installation).
 
-The guides get progressively more advanced as you go on. Most serve as a starting point, and once completed you should feel more comfortable diving into the actual [documentation](/configuration).
+По мере продвижения инструкции будут все более продвинутыми. Большинство из них служат отправной точкой, а после ее завершения вы должны чувствовать себя более комфортно, погружаясь в полноценную работу[Документация](/configuration).
